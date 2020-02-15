@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\bin\Debug\WFASatrancTahtası.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\bin\Debug\WFASatrancTahtası.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\bin\Debug\WFASatrancTahtası.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFASatrancTahtası\WFASatrancTahtası\obj\Debug\WFASatrancTahtası.pdb
